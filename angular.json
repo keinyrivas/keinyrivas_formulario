@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "formulario"
+    }
+  },
+  "defaultProject": "formulario",
+  "cli": {
+    "analytics": "0d922f98-8a83-4f3f-b49d-3cc6ece4f273"
+  }
 }
